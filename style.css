@@ -56,10 +56,10 @@ button.slick-next.slick-arrow {
 .slick_slide_content p {
     padding: 0px 15px;
     text-align:  left;
-    line-height:  26px;
-    /* font-size:  16px; */
-    /* font-weight:  400; */
-    /* color:  #333; */
+    line-height:  2.7rem;
+     font-size:  1.4rem; 
+     font-weight:  normal; 
+     color:  #687784; 
 }
 
 button.slick-prev.slick-arrow {
@@ -74,16 +74,17 @@ button.slick-prev.slick-arrow {
 }
 
 .def {
-    width: 130px;
+    width: 85px;
     text-align:  center;
     margin:  0 auto;
-    height: 130px;
+    height: 85px;
     border-radius: 100%;
     background: transparent;
     /* z-index:  1; */
     position:  relative;
     padding: 0px;
     overflow:  hidden;
+    /* background:  red; */
 }
 
 .def {}
